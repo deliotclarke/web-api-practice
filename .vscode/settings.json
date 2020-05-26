@@ -1,0 +1,15 @@
+{
+  "sqltools.connections": [
+    {
+      "database": "MyWebApi.Dev",
+      "dialect": "PostgreSQL",
+      "isActive": false,
+      "isConnected": false,
+      "name": "postgres_db",
+      "password": "bob",
+      "port": 5432,
+      "server": "localhost",
+      "username": "deliotclarke"
+    }
+  ]
+}
